@@ -1,0 +1,13 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+}
+pre{
+  font-size: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+}
